@@ -21,6 +21,7 @@ When you want to get a quick news update and don't want to dive deep into the we
 →  Create a program that searches particular news outlets and twitter to see what's trending
 
 Edit: Have done a twitter bot, needs to be finished
+
 [Go to Twitter Project](https://github.com/m4nasi/Project-Ideas/tree/main/Twitter)
 
 ### Amazon Price Tracker
