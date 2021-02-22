@@ -78,6 +78,10 @@ Just a fun idea of translating sentences into emojis, like the Google keyboard p
 
 An app that reviews and tests your knowledge through Flashcards, somewhat like Quizlet. The project would have a GUI and would be able to separate flash cards and maybe do mind maps. Could integrate the timer project idea?
 
+###Raspberry Pi 
+
+Learning C and maybe Java on a Raspberry Pi and do a larger project on a Rasperry Pi
+
 ### Github Timeline
 
 The program generates a timeline of a users Github repository through the week, month and years. Would be cool to see how different users have done through out the years. 
@@ -85,6 +89,14 @@ The program generates a timeline of a users Github repository through the week, 
 ### Podcast Library
 
 A website that has a library of your favourite podcasts and sends you a notification when the newest version is out and possibly add comments to the podcasts to indicate which part you liked.
+
+###Portfolio
+
+A website to display my work and my skills at HTML, CSS and JavaScript
+
+Edit: I have done a portfolio
+
+[Go to Portfolio](https://m4nasi.github.io/Portfolio/)
 
 # Quick Projects
 
@@ -147,6 +159,7 @@ A simple application that allows people to add comments or write journal entries
 #### Bandwidth Monitor
 
 A small utility program that tracks how much data you have uploaded and downloaded from the net during the course of your current online session
+
 
 #### Country from IP Lookup
 
