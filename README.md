@@ -14,8 +14,6 @@ Key:
 
 # Ideas:
 
-## Bots:
-
 ### News Research Bot
 
 When you want to get a quick news update and don't want to dive deep into the web a bot that posts PDF articles of the most trending articles and features would be perfect.
