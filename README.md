@@ -90,7 +90,7 @@ The program generates a timeline of a users Github repository through the week, 
 
 A website that has a library of your favourite podcasts and sends you a notification when the newest version is out and possibly add comments to the podcasts to indicate which part you liked.
 
-###Portfolio
+### Portfolio
 
 A website to display my work and my skills at HTML, CSS and JavaScript
 
