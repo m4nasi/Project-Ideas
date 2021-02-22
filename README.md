@@ -21,6 +21,7 @@ When you want to get a quick news update and don't want to dive deep into the we
 →  Create a program that searches particular news outlets and twitter to see what's trending
 
 Edit: Have done a twitter bot, needs to be finished
+[Go to Twitter Project](https://github.com/m4nasi/Project-Ideas/tree/main/Twitter)
 
 ### Amazon Price Tracker
 
@@ -157,6 +158,8 @@ This program will get the true atomic time from an atomic time clock on the Inte
 Get the current weather for a given zip/postal code.
 
 Edit: I have done a weather program but only displays one area and their weather - may change so user can submit their own.
+
+[Go to Weather Project](https://github.com/m4nasi/Project-Ideas/tree/main/Weather)
 
 #### Create Zip File Maker
 
