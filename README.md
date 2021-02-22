@@ -24,6 +24,14 @@ Edit: Have done a twitter bot, needs to be finished
 
 [Go to Twitter Project](https://github.com/m4nasi/Project-Ideas/tree/main/Twitter)
 
+### Space Station Location
+
+This tracks and plot where the International Space Station is and when it will pass over London.
+
+[Go to Space Station Project](https://github.com/m4nasi/Project-Ideas/tree/main/Twitter)
+
+Edit: Have done a Space Station 
+
 ### Amazon Price Tracker
 
 There are open source trackers available for Price Tracking Amazon products in which you can plot prices; minimum prices of a product, maximum prices of the product. This can be helpful to see how the prices of a product fluctuate in time.
