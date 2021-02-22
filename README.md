@@ -3,9 +3,13 @@
 This is a repository of projects and random things I have come across. 
 
 Key:
+
 ✨ - Favourite ideas
+
 🎇 - Project is in progress
+
 🎆 - Needs more research into the idea
+
 🎈 - Have done this project
 
 # Ideas:
