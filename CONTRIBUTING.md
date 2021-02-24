@@ -1,4 +1,4 @@
-Contributing
+Contributing:
 Please ensure all pull requests and contributions comply with the Developer Certificate of Origin.
 
 Setting Up Your Code
