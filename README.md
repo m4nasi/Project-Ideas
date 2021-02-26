@@ -78,7 +78,7 @@ Just a fun idea of translating sentences into emojis, like the Google keyboard p
 
 An app that reviews and tests your knowledge through Flashcards, somewhat like Quizlet. The project would have a GUI and would be able to separate flash cards and maybe do mind maps. Could integrate the timer project idea?
 
-###Raspberry Pi 
+### Raspberry Pi 
 
 Learning C and maybe Java on a Raspberry Pi and do a larger project on a Rasperry Pi
 
