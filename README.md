@@ -28,9 +28,9 @@ Edit: Have done a twitter bot, needs to be finished
 
 This tracks and plot where the International Space Station is and when it will pass over London.
 
-[Go to Space Station Project](https://github.com/m4nasi/Project-Ideas/tree/main/Space%20Station)
-
 Edit: Have done a Space Station 
+
+[Go to Space Station Project](https://github.com/m4nasi/Project-Ideas/tree/main/Space%20Station)
 
 ### Amazon Price Tracker
 
