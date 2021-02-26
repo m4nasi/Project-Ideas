@@ -1,5 +1,5 @@
 # Twitter API
-This is a Python program which sends and receive tweets.
+This is a Python program which sends and receive tweetsand in this project I used the Python module Twython to get tweets and then send out random tweets such as text and images.
 
 For this project you need:
  - twython Python module
